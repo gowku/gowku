@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gowku
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML CSS SASS
+- 👀 I’m interested in Front-end development
+- 🌱 I’m currently learning HTML CSS SASS Javascript NodeJs React Redux Redux/Toolkit mongoDB MySQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me at frebet.julien@gmail.com
 
